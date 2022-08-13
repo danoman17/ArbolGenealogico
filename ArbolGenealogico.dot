@@ -6,72 +6,72 @@ edge [fontname="Helvetica,Arial,sans-serif"]
 
     AP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/abueloM.jpeg" /></td></tr>
+            <tr><td>"Macedonio Flores"</td></tr>
+            <tr><td>"13 de abril Tlaxcala"</td></tr>
         </table>
     >];
     AAP [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/abuelaM.jpeg" /></td></tr>
+            <tr><td>"Julia Perez"</td></tr>
+            <tr><td>"22 de octubre Tlaxcala"</td></tr>
         </table>
     >];
 
     AM [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/abueloP.jpeg" /></td></tr>
+            <tr><td>"Ruben Rodriguez"</td></tr>
+            <tr><td>"22 de septiembre Tlaxcala"</td></tr>
         </table>
     >];
 
     AAM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/abuelaP.jpeg" /></td></tr>
+            <tr><td>"Alejandra Sanchez"</td></tr>
+            <tr><td>"13 de septiembre Ciudad de mexico"</td></tr>
         </table>
     >];
 
     PP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/papa.jpeg" /></td></tr>
+            <tr><td>"Jose Flores"</td></tr>
+            <tr><td>"22 de abril Ciudad de mexico"</td></tr>
         </table>
     >];
 
     MM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/mama.jpeg" /></td></tr>
+            <tr><td>"Leticia Rodriguez Aguilar"</td></tr>
+            <tr><td>"22 de septiembre Tlaxcala"</td></tr>
         </table>
     >];
 
     YO [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/yo.webp" /></td></tr>
+            <tr><td>"Daniel Flores Rodriguez"</td></tr>
+            <tr><td>"9 de octubre Ciudad de mexico"</td></tr>
         </table>
     >];
 
     HO [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/hermana.webp" /></td></tr>
+            <tr><td>"Jenny Flores"</td></tr>
+            <tr><td>"22 de enero Ciudad de mexico"</td></tr>
         </table>
     >];
 
     HA [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/Hermano.jpeg" /></td></tr>
+            <tr><td>"Jose Flores"</td></tr>
+            <tr><td>"07 de diciembre Ciudad de mexico"</td></tr>
         </table>
     >];
 
